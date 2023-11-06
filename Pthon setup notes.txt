@@ -1,0 +1,8 @@
+C:\Users\Dell\AppData\Local\Programs\Python\Python310\
+
+C:\Users\Dell\AppData\Local\Programs\Python\Python310\Scripts\
+
+to create new environment in anaconda
+conda create -n myenv python=3.9	
+
+conda activate myenv
